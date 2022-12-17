@@ -1,0 +1,19 @@
+{
+  "name": "ffbrowser",
+  "version": "1.0.0",
+  "description": "BURR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ten2TEN/ffbrowser.git"
+  },
+  "author": "[TEN]2TEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ten2TEN/ffbrowser/issues"
+  },
+  "homepage": "https://github.com/ten2TEN/ffbrowser#readme"
+}
